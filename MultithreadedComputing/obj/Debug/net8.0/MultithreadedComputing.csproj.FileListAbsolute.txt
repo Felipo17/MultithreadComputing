@@ -1,0 +1,14 @@
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.AssemblyInfoInputs.cache
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.AssemblyInfo.cs
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.csproj.CoreCompileInputs.cache
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\bin\Debug\net8.0\MultithreadedComputing.exe
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\bin\Debug\net8.0\MultithreadedComputing.deps.json
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\bin\Debug\net8.0\MultithreadedComputing.runtimeconfig.json
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\bin\Debug\net8.0\MultithreadedComputing.dll
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\bin\Debug\net8.0\MultithreadedComputing.pdb
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.dll
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\refint\MultithreadedComputing.dll
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.pdb
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\MultithreadedComputing.genruntimeconfig.cache
+C:\Users\filip\OneDrive\Pulpit\PWr\6\PlatformyProgramistyczne\MultithreadedComputing\MultithreadedComputing\obj\Debug\net8.0\ref\MultithreadedComputing.dll
